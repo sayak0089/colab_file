@@ -1,0 +1,4 @@
+# This is a sample python program
+x = 45
+y = 30
+print ("The average of the two values is: " ((x+y)/2))
